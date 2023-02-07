@@ -16,7 +16,7 @@
         android:layout_weight="2"
         android:gravity="center"
         android:text="Register"
-        android:textColor="@android:color/white"
+        android:textColor="@android:color/black"
         android:textSize="50dp"
         android:textStyle="bold"></TextView>
 
@@ -37,7 +37,7 @@
         android:inputType="text"
         android:textColor="#FFFFFF"
         android:textColorHint="#FFFFFF"
-        android:textSize="19dp" />
+        android:textSize="18dp" />
 
     <View
         android:layout_width="match_parent"
@@ -57,7 +57,7 @@
 
         android:textColor="#FFFFFF"
         android:textColorHint="#FFFFFF"
-        android:textSize="19dp" />
+        android:textSize="18dp" />
 
     <View
         android:layout_width="match_parent"
@@ -76,7 +76,7 @@
         android:inputType="textPassword"
         android:textColor="#FDFCFD"
         android:textColorHint="#FFFFFF"
-        android:textSize="19dp" />
+        android:textSize="18dp" />
 
     <View
         android:layout_width="match_parent"
@@ -94,7 +94,7 @@
 
         android:text="Create Account"
         android:textAllCaps="false"
-        android:textColor="@android:color/white"
+        android:textColor="@android:color/black"
         android:textSize="18dp" />
 
 </LinearLayout>
