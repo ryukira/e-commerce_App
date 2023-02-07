@@ -1,7 +1,12 @@
 ecommerce app with firebase database
 App ini masih dalam tahap pengembangan, tapi semua fungsi utama sudah bisa di jalankan dengan baik
 
-Login Page :
+User Admin :
+Phone Number : 085715775987
+password : 12345678
+
+
+Home Page :
 ![Screenshot_20230207-122659](https://user-images.githubusercontent.com/19162968/217157298-737eb0de-bbf9-4389-8107-e769e5f52374.png)
 
 
